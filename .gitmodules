@@ -1,0 +1,9 @@
+[submodule "pry"]
+	path = pry
+	url = https://github.com/pry/pry
+[submodule "eventmachine"]
+	path = eventmachine
+	url = https://github.com/eventmachine/eventmachine.git
+[submodule "pry-em"]
+	path = pry-em
+	url = https://github.com/ConradIrwin/pry-em.git
